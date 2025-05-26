@@ -5,11 +5,12 @@
 //2. MODULE
 //3. INLINE
 
+import Button from './Button.jsx'
 
 function App() {
   return (
     <>
-   
+     <Button></Button>
     </>
   )
 }
