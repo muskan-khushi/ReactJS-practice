@@ -7,7 +7,8 @@ function App(){
 
   return(
     <>
-
+      <Student name="SpongeBob" age={13} isStudent={true}></Student>
+      <Student name="Doraemon" age={1300} isStudent={false}></Student>
     </>
   );
 }
